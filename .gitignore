@@ -1,0 +1,11 @@
+# Ignore the config.json file
+config.json
+
+# Ignore screenshots (you can specify file types or directories)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.pdf
