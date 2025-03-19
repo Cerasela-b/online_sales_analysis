@@ -19,4 +19,4 @@ product_manager.add_product(product4)
 #print(product_manager.display_all_products())
 
 total_value = product_manager.total_inventory_value()
-print(f"Total Inventory Value: {total_value} RON")
+#print(f"Total Inventory Value: ${total_value}")
